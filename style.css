@@ -55,6 +55,11 @@ button {
   border-style: hidden;
 }
 
+hr {
+  width: 350px;
+  margin-top: 20px;
+}
+
 .a {
   margin-top: 15px;
 }
