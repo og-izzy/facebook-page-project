@@ -8,6 +8,7 @@ div img {
   margin-left: 180px;
   margin-top: 170px;
 }
+
 div h2 {
   margin-left: 210px;
   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
@@ -24,6 +25,7 @@ div h2 {
   margin-left: 700px;
   border-radius: 9px;
   text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 p {
@@ -37,7 +39,8 @@ p {
   margin-top: 15px;
   border-radius: 8px;
   border-style: ridge;
-  background-color: white; 
+  background-color: white;
+  border-color: rgb(235, 233, 233);
 }
 
 button {
